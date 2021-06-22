@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  9 09:46:25 2018
 
-@author: yjwu
-
-Python 3.5.2
-
-"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
